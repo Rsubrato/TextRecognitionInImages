@@ -24,30 +24,30 @@ The following python packages must be installed :
    
 <h2>Samples:</h2>
 
-<h3>1. Home Page:</h3>
+<h4>1. Home Page:</h4>
 
 ![Picture1](https://user-images.githubusercontent.com/52970886/173174122-9edeee4a-9ace-4ba2-ac36-f60943f913d9.png)
 
-<h3>2. Image Uploading Screen:</h3>
+<h4>2. Image Uploading Screen:</h4>
 
 ![Picture2](https://user-images.githubusercontent.com/52970886/173174280-41491688-e1d5-4a20-b843-54ad5e8c028f.png)
 
-<h3>3. Text Output:</h3>
+<h4>3. Text Output:</h4>
 
 ![Picture3](https://user-images.githubusercontent.com/52970886/173174282-4dd0c9da-6ba3-4f76-9cde-ca51bc8f024b.png)
 
-<h3>4. Image Output:</h3>
+<h4>4. Image Output:</h4>
 
 ![Picture4](https://user-images.githubusercontent.com/52970886/173174290-c53f4d42-f941-4c7d-8329-8492ebf5f27b.png)
 
 
 <h2>UML Diagrams:</h2>
 
-<h3>1. Use Case Diagram:</h3>
+<h4>1. Use Case Diagram:</h4>
 
 ![Picture1](https://user-images.githubusercontent.com/52970886/173174337-82016ac7-be69-4677-ac60-87960269cb85.png)
 
-<h3>2. Sequence Diagram:</h3>
+<h4>2. Sequence Diagram:</h4>
 
 ![Picture6](https://user-images.githubusercontent.com/52970886/173174356-a78022e8-d2e2-4a2b-855d-a94393badb7d.png)
 
